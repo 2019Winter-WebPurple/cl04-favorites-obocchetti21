@@ -1,0 +1,20 @@
+* Olivia Bocchetti
+* Due Date 
+* Favorite Things
+*/
+
+/* The universal selector */
+
+* {
+
+}
+img{height: 200px;width: 300px;}
+figure {float:right;}
+#italy {height: 300px; width: 400px;}
+
+#birds {height: 500px; width: 600px;}
+
+
+/* Body properties here */ body {
+
+}
